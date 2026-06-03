@@ -1,0 +1,27 @@
+{
+  "produtos": [
+    {
+      "id": "2",
+      "nome": "Notebook Dell",
+      "preco": 3500
+    },
+    {
+      "id": "3",
+      "nome": "Caneca UNIESP",
+      "preco": 29.9
+    }
+  ],
+  "tarefas": [
+    {
+      "titulo": "Estudar React",
+      "descricao": "Fazer os 5 desafios",
+      "id": "Z5EWJgQGFhk"
+    },
+    {
+      "titulo": "Estudar Mais",
+      "descricao": "aaaaaaa",
+      "id": "74a6mlmbO4I"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
