@@ -1,6 +1,11 @@
 {
   "produtos": [
     {
+      "id": "1",
+      "nome": "Camisa Polo",
+      "preco": 59.9
+    },
+    {
       "id": "2",
       "nome": "Notebook Dell",
       "preco": 3500
